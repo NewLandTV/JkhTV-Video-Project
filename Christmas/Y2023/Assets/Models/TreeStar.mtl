@@ -1,0 +1,12 @@
+# Blender 4.0.0 MTL File: 'TreeStar.blend'
+# www.blender.org
+
+newmtl Yellow
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.936560 0.794050 0.009829
+Ks 0.500000 0.500000 0.500000
+Ke 4.808076 2.317702 0.117824
+Ni 1.450000
+d 1.000000
+illum 2
